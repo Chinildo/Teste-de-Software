@@ -9,7 +9,6 @@ function verPassou() {
             document.getElementById('resultado').value = 'recuperacao';
             document.getElementById('resultado').innerHTML = 'Recuperacao';
         } else {
-            console.log(freq);
             document.getElementById('resultado').value = 'reprovado';
             document.getElementById('resultado').innerHTML = 'Reprovado';
         }

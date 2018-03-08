@@ -1,0 +1,22 @@
+[
+    { "nota": 61, "freq": 76, "resultEsperado": "aprovado" },
+    { "nota": 61, "freq": 75, "resultEsperado": "recuperacao" },
+    { "nota": 61, "freq": 50, "resultEsperado": "recuperacao" },
+    { "nota": 61, "freq": 49, "resultEsperado": "reprovado" },
+    { "nota": 60, "freq": 76, "resultEsperado": "aprovado" },
+    { "nota": 60, "freq": 75, "resultEsperado": "recuperacao" },
+    { "nota": 60, "freq": 50, "resultEsperado": "recuperacao" },
+    { "nota": 60, "freq": 49, "resultEsperado": "reprovado" },
+    { "nota": 59, "freq": 76, "resultEsperado": "recuperacao" },
+    { "nota": 59, "freq": 75, "resultEsperado": "recuperacao" },
+    { "nota": 59, "freq": 50, "resultEsperado": "recuperacao" },
+    { "nota": 59, "freq": 49, "resultEsperado": "reprovado" },
+    { "nota": 40, "freq": 76, "resultEsperado": "recuperacao" },
+    { "nota": 40, "freq": 75, "resultEsperado": "recuperacao" },
+    { "nota": 40, "freq": 50, "resultEsperado": "recuperacao" },
+    { "nota": 40, "freq": 49, "resultEsperado": "reprovado" },
+    { "nota": 39, "freq": 76, "resultEsperado": "reprovado" },
+    { "nota": 39, "freq": 75, "resultEsperado": "reprovado" },
+    { "nota": 39, "freq": 50, "resultEsperado": "reprovado" },
+    { "nota": 39, "freq": 49, "resultEsperado": "reprovado" }
+]
